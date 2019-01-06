@@ -1,0 +1,6 @@
+baseURL = "https://openincentivekit.com/"
+languageCode = "en-us"
+title = "The Open INcentive Kit"
+theme = "oink"
+copyright = "(c) The Open INcentive Kit Development Team"
+
